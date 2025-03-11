@@ -747,4 +747,8 @@ form {
     .what {
         font-size: 30px;
     }
+
+    .foot-left {
+    padding-top: 50px;
+}
 }
