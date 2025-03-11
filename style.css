@@ -646,6 +646,10 @@ form {
         width: 80%;
     }
 
+    .hero-content > h1 {
+        text-align: center;
+    }
+    
     .hero-right {
         display: flex;
        align-items: center;
